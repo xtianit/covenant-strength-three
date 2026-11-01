@@ -743,10 +743,10 @@ const SundaySchoolApp = () => {
                                         </h2>
                                         <blockquote className="text-base sm:text-lg italic font-medium mb-3">"{contentData.memoryVerse}"</blockquote>
                                         <button
-                                            onClick={() => showBibleVersions("Exodus 2:24")}
+                                            onClick={() => showBibleVersions("2 Corinthians 6:14")}
                                             className="px-3.5 py-2 bg-blue-600 hover:bg-blue-500 text-white rounded-xl text-xs font-semibold shadow flex items-center gap-1.5 transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500"
                                         >
-                                            <BookOpen size={14} aria-hidden="true" /> Read Exodus 2:24
+                                            <BookOpen size={14} aria-hidden="true" /> Read 2 Corinthians 6:14
                                         </button>
                                     </div>
 
