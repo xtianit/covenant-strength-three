@@ -251,7 +251,7 @@ const SundaySchoolApp = () => {
             "Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? And what communion hath light with darkness?",
         memoryVerseRef: "2 Corinthians 6:14",
     
-        introScriptures: ["Ephesians 5:15"], 
+        introScriptures: ["2 Corinthians 6:14"], 
         lessonIntroScriptures: [],
     
         introduction:
